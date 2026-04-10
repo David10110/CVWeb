@@ -6,7 +6,7 @@ export const info = {
   picture: "/CVWeb/FotoCV.png",
   picture_alt: "Angel David Valenzuela Ortiz",
   location: "Guadalajrara, Jalisco, México.",
-  cv: "/CVWeb/AngelDavidValenzuelaOrtizCVEng.pdf",
+  cv: "/CVWeb/mycv.pdf",
 
   about: {
     description: `I'm a full stack developer with a passion for causing a little chaos in web development.
