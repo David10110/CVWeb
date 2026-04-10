@@ -15,7 +15,8 @@ export default defineConfig({
     defaultLocale: 'es',
     locales: ['es', 'en'],
   },
-  site: 'https://github.com/David10110/CVWeb.git',
+  site: 'https://David10110.github.io',
+  base: '/CVWeb',
   integrations: [tailwind(), react(), robotsTxt(), sitemap()]
 });
 
