@@ -15,7 +15,7 @@ export default defineConfig({
     defaultLocale: 'es',
     locales: ['es', 'en'],
   },
-  site: 'https://astro-portfolio-template.pages.dev',
+  site: 'https://github.com/David10110/CVWeb.git',
   integrations: [tailwind(), react(), robotsTxt(), sitemap()]
 });
 
