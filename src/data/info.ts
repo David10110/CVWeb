@@ -1,12 +1,12 @@
 export const info = {
-  name: "Bart Simpson",
+  name: "Angel David Valenzuela Ortiz",
   brief_description:
-    "I'm a mischievous full stack developer with a knack for troublemaking.",
-  role: "Full Stack Developer",
-  picture: "/pic.png",
-  picture_alt: "Bart Simpson",
-  location: "Springfield, USA",
-  cv: "/resume.pdf",
+    "I´m a software engenieer, .",
+  role: "Software Developer",
+  picture: "/FotoCV.png",
+  picture_alt: "Angel David Valenzuela Ortiz",
+  location: "Guadalajrara, Jalisco, México.",
+  cv: "/AngelDavidValenzuelaOrtizCVEng.pdf",
 
   about: {
     description: `I'm a full stack developer with a passion for causing a little chaos in web development.
@@ -84,9 +84,9 @@ export const info = {
   ],
 
   contact: {
-    email: "bart@thesimpsons.com",
-    linkedin: "https://www.linkedin.com/in/bartsimpsonfake",
-    github: "https://www.github.com/gio-del",
-    twitter: "https://www.twitter.com/bartsimpsonfake",
+    email: "angeldvz2000@gmail.com",
+    linkedin: "https://www.linkedin.com/in/angel-ortiz-06a6a4216",
+    github: "https://github.com/David10110",
+    Facebook: "https://www.facebook.com/angel.ortiz.590367",
   },
 };

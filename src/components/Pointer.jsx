@@ -132,8 +132,8 @@ export default function Pointer() {
 }
 
 function Particle(x, y, vx, vy, radius, color, life, spread, ctx) {
-  this.x = x + Math.random() * spread - spread / 2;
-  this.y = y + Math.random() * spread - spread / 2;
+  this.x = x + Math.random() * spread - spread / 1;
+  this.y = y + Math.random() * spread - spread / 1;
   this.vx = vx;
   this.vy = vy;
   this.radius = radius;

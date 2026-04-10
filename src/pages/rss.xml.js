@@ -7,7 +7,7 @@ export async function GET(context) {
 
     return rss({
         title: 'Portfolio',
-        description: 'A portfolio template for Astro',
+        description: 'A portfolio por Angel David Valenzuela Ortiz',
         site: context.site,
         items: posts.map((post) => ({
             link: post.url,

@@ -5,7 +5,6 @@ import ProjectCarousel from "../components/projects_section/ProjectCarousel";
 import Contact from "../components/contact_section/Contact";
 import About from "../components/about_section/About";
 import Blog from "../components/post_section/Blog.astro";
-
 import { Image } from "astro:assets";
 
 const allPosts = await Astro.glob("./posts/*.md");
@@ -28,7 +27,7 @@ const allPosts = await Astro.glob("./posts/*.md");
 
       <div class="flex flex-col lg:mx-8 leading-relaxed space-y-4">
         <h1 class="text-3xl lg:text-5xl font-bold font-serif">
-          Hi, I'm <span class="bg-clip-text animate-pulse typewriter">
+          Hi, I'm <span class="bg-clip-teBxt animate-pulse typewriter">
             {info.name}</span
           >
         </h1>
