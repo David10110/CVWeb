@@ -3,7 +3,7 @@ export const info = {
   brief_description:
     "I´m a software engenieer, .",
   role: "Software Developer",
-  picture: "/FotoCV.png",
+  picture: "/CVWeb/FotoCV.png",
   picture_alt: "Angel David Valenzuela Ortiz",
   location: "Guadalajrara, Jalisco, México.",
   cv: "/AngelDavidValenzuelaOrtizCVEng.pdf",
