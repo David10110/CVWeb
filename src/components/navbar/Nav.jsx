@@ -7,12 +7,12 @@ import { info } from "../../data/info";
 export default function Nav({ posts }) {
   const [isNavOpen, setIsNavOpen] = useState(false);
 
-  const navLinks = [
-    { name: "About", href: "/#about" },
-    { name: "Projects", href: "/#projects" },
-    { name: "Blog", href: "/#blog" },
-    { name: "Contact", href: "/#contact" },
-  ];
+ const navLinks = [
+  { name: "About", href: "/CVWeb/#about" },
+  { name: "Projects", href: "/CVWeb/#projects" },
+  { name: "Blog", href: "/CVWeb/#blog" },
+  { name: "Contact", href: "/CVWeb/#contact" },
+];
 
   const extractInitials = (name) => {
     const names = name.split(" ");
